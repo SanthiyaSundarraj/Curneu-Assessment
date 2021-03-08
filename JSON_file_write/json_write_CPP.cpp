@@ -11,7 +11,7 @@
 int main(int argc, char* argv[])
 {
 	//Adding the path of json file to json_path string
-    	std::string json_path= "/Users/Home/Desktop/sample.json";
+    	std::string json_path= "/Users/Home/Desktop/output.json";
     	std::cerr << "Writing Parameters in \n\n" << std::endl;
     
     	//Initialising the document named doc
